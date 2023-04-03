@@ -29,17 +29,14 @@ npm start
 sudo bbb-conf --status sprawdzanie 
 sudo bbb-conf --start
 
-uzytkownik - mateusz
-haslo - root
+
 
 bbb-dev-01.test
 ```
 
 Dane 
 
-```sh
-uzytkownik - mateusz
-haslo - root
+
 
 katalog z projektem bbb-dev-01
 
